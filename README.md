@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tadalas</h1>
+<h1 align="center">Hi 👋, I'm Andre Braga</h1>
 <h3 align="center">A passionate Full-stack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrecristodev&label=Profile%20views&color=0e75b6&style=flat" alt="andrecristodev" /> </p>
