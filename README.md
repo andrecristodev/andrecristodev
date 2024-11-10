@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrecristodev&label=Profile%20views&color=0e75b6&style=flat" alt="andrecristodev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrecristodev" alt="andrecristodev" /></a> </p>
-
 - 🔭 I’m currently working on [Santa Group](https://santagroup.gg)
 
 - 👨‍💻 All of my projects are available at [https://tadalas.systems](https://tadalas.systems)
