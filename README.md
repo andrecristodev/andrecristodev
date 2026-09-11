@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+Developer;Full-Stack+Engineer+from+Brazil;Building+tadalas.systems;Sempre+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+Developer;Full-Stack+Engineer+from+Brazil;Building+tadalas.systems;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=andrecristodev&label=Profile%20views&color=0e75b6&style=flat" alt="andrecristodev" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
 ```typescript
 const andre = {
@@ -24,13 +24,13 @@ const andre = {
 };
 ```
 
-- 🔭 Trabalhando na **[Santa Group](https://santagroup.gg)**
-- 🌐 Todos os projetos em **[tadalas.systems](https://tadalas.systems)**
-- 📬 Me contate em **contato.andredevbr@icloud.com**
+- 🔭 Currently working at **[Santa Group](https://santagroup.gg)**
+- 🌐 All my projects are available at **[tadalas.systems](https://tadalas.systems)**
+- 📬 How to reach me: **contato.andredevbr@icloud.com**
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,17 +43,17 @@ const andre = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecristodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecristodev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecristodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecristodev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=andrecristodev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=andrecristodev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🏆 Troféus
+### 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=andrecristodev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
@@ -61,7 +61,7 @@ const andre = {
 
 ---
 
-### 🐍 Contribuições
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrecristodev/andrecristodev/output/github-contribution-grid-snake-dark.svg" />
@@ -71,7 +71,7 @@ const andre = {
 
 ---
 
-### 🤝 Conecte-se
+### 🤝 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/andre-cristo-998341200/" target="_blank">
