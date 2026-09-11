@@ -17,7 +17,7 @@ const andre = {
   name: "Andre Braga",
   location: "Brazil 🇧🇷",
   company: "SantaGroup",
-  website: "https://tadalas.systems",
+  website: "https://andrecristodev.github.io/tadalas-systems/",
   role: "Full-Stack Developer",
   stack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
   contact: "contato.andredevbr@icloud.com",
@@ -25,7 +25,7 @@ const andre = {
 ```
 
 - 🔭 Currently working at **[Santa Group](https://santagroup.gg)**
-- 🌐 All my projects are available at **[tadalas.systems](https://tadalas.systems)**
+- 🌐 All my projects are available at **[andrecristodev.github.io/tadalas-systems](https://andrecristodev.github.io/tadalas-systems/)**
 - 📬 How to reach me: **contato.andredevbr@icloud.com**
 
 ---
@@ -72,7 +72,7 @@ const andre = {
   <a href="https://discord.gg/gCZpDV8GvS" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://tadalas.systems" target="_blank">
+  <a href="https://andrecristodev.github.io/tadalas-systems/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:contato.andredevbr@icloud.com">
